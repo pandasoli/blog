@@ -4,10 +4,6 @@ published_at: 2023-11-04T15:00:00.000Z
 snippet: How to add virtual scrollbars in your CLI app
 ---
 
-# <samp>Internal Console Scrollbars</samp>
-> In this post we'll see how to make custom scrollbars inside a console buffer.
-
-Okay, this is gonna be pretty simple.  
 This post is based on my [console-scroll](https://github.com/pandasoli/console-scroll) repo.
 
 As you may know, the scrollbar's thumb represents the content that we are seeing now.  
