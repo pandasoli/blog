@@ -1,7 +1,7 @@
 ---
 title: Internal Console Scrollbars
 published_at: 2023-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+snippet: How to add virtual scrollbars in your CLI app
 ---
 
 # <samp>Internal Console Scrollbars</samp>

@@ -1,7 +1,7 @@
 ---
 title: ANSI Colors
 published_at: 2023-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+snippet: How ANSI colors work and how to use them
 ---
 
 > ANSI colors are used by CLI programs to color anything printed on the terminal.  
