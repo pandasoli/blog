@@ -32,7 +32,7 @@ export function Header() {
 			<form href='/' class='relative flex items-center rounded-full bg-gray-200 focus-within:bg-gray-300'>
 				<span class='material-symbols-outlined absolute left-4 pointer-events-none text-gray-400'>search</span>
 				<input ref={ ref } value={ value.value } name='q' type='search' placeholder='Search' class='px-12 pr-20 py-2 sm:w-72 text-lg text-gray-800 outline-none bg-transparent placeholder:text-gray-400' />
-				<span class='absolute right-4 pointer-events-none'>Ctrl+K</span>
+				<span class='hidden sm:inline-block absolute right-4 pointer-events-none'>Ctrl+K</span>
 			</form>
 		</div>
 	</>
