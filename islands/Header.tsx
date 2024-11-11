@@ -27,7 +27,7 @@ export function Header() {
 		</Head>
 
 		<div class='flex-col sm:flex-row flex items-center justify-between max-w-screen-md px-4 pt-16 mx-auto'>
-			<img src='/panda.svg' class='block w-20' />
+			<img src='/favicon.svg' class='block w-20' />
 
 			<form href='/' class='relative flex items-center rounded-full bg-gray-200 focus-within:bg-gray-300'>
 				<span class='material-symbols-outlined absolute left-4 pointer-events-none text-gray-400'>search</span>
